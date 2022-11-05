@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Sebas171
-- 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning Computational science
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me IG Sebas_175j
+Hi! I am Sebas from Costa Rica. Aspiring self-taught software developer.
 
-<!---
-Sebas171/Sebas171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like programming, reading fantasy books and playing videogames.
+
+You will find most of my projects that I make in my free time here!
+
+I’m currently learning Full stack development in Freecodecamp and working on my personal webpage.
+
+Instagram: Sebas_175j 
+
+QWER*
